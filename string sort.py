@@ -31,8 +31,8 @@ Lincoln,decision,despatched,which,with
 Explanation 1
 
 Case will remain same while sorting.'''
-# code begins
-a=list(input().split(','))                                              
+
+a=list(input().split(','))               # CODE BEGINS                               
 a.sort()
 c=0
 for i in a:
